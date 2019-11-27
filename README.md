@@ -15,3 +15,4 @@ Professor Rooker provided us with a project topic that was also been selected ra
 *	Assignment #2: Evaluating Requirements 
 *	Assignment #3: Architecture
 *	Assignment #4: Design 
+* Assignment #5: User Stories
