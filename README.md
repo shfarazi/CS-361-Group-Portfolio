@@ -16,3 +16,5 @@ Professor Rooker provided us with a project topic that was also been selected ra
 *	Assignment #3: Architecture
 *	Assignment #4: Design 
 * Assignment #5: User Stories
+* Assignment #6: Implementation Part I
+* Assignment #7: Implementation Part II
