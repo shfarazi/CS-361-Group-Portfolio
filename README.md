@@ -1,8 +1,8 @@
-# CS-361-Group-Portfolio
+# Portfolio
 
-In our CS 361 class – **Software Engineering I** at the Oregon State University (OSU), we are participating in a class wide group project where we first came up with project proposals individually. Afterward, we all were assigned at random to a group of 5 people. 
+In **Software Engineering I** at the Oregon State University (OSU), we are participating in a class wide group project where we first came up with project proposals individually. Afterward, we all were assigned at random to a group of 5 people. 
 
-For **Group 16**, the five team members are: 
+Team members: 
 -	Haya Ahmed
 -	Ryan Alcorn
 -	Marc Baiza
