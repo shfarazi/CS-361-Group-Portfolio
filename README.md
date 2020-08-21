@@ -24,5 +24,5 @@ Professor Rooker provided us with a project topic that was also been selected ra
 * Assignment #7: Implementation Part II
 
 *** This project was presented at OSU DEC 2019 Showcase Event by Shannon Farazi. 
-* Presentation Link: https://www.linkedin.com/in/shannonfarazi/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABCPUuUBUIrALz5UQUghZVvu1Cq0NmuK3NA,1590015488726)/
-* Video Link: https://www.youtube.com/watch?v=4DKYAuD1NTM&feature=youtu.be
+* [Presentation Link](https://www.linkedin.com/in/shannonfarazi/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABCPUuUBUIrALz5UQUghZVvu1Cq0NmuK3NA,1590015488726)/)
+* [Video Link](https://www.youtube.com/watch?v=4DKYAuD1NTM&feature=youtu.be)
