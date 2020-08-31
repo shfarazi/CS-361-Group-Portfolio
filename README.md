@@ -1,4 +1,4 @@
-# Portfolio
+# Pawwwz
 
 In **Software Engineering I** at the Oregon State University (OSU), I participated in a class wide group project where we first came up with project proposals individually. Afterward, we all were assigned at random to a group of 5 people. 
 
