@@ -11,7 +11,7 @@ Team members:
 
 Professor Rooker provided us with a project topic that was also been selected randomly for us. Our project topic is: **Lost Pet Finder chip/app**. This proposal was submitted by **Keenon Hunsaker** who is our acting customer. Throughout the course of this quarter worked in collaboration with our customer as a group to bring his proposal to life. 
 
-**Pawzzz** is a cross-platform (iOS/Android) pet location app using Xamarin Forms along with an ASP.NET Core REST API backend utilizing Microsoft’s Cosmos DB. With this app, everyone can report their pet's status to other registered users in case they can't locate them. 
+**Pawwwz** is a cross-platform (iOS/Android) pet location app using Xamarin Forms along with an ASP.NET Core REST API backend utilizing Microsoft’s Cosmos DB. With this app, everyone can report their pet's status to other registered users in case they can't locate them. 
 
 **The magic is in uniting pets with their owners**
 
